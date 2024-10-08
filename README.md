@@ -10,6 +10,5 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre buscando 
 </div>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabluna)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabluna&line_height=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabluna&layout=compact)
