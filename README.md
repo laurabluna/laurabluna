@@ -10,6 +10,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e estou sempre buscando 
   <img align="center" alt="tailwind" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVgHWDyjwN9qZsPChFzc5PRfOOOqbfgXqR3w&s"
 </div>
 <br>
-
+<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurabluna&line_height=20)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurabluna&layout=compact)
