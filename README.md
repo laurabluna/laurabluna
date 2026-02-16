@@ -17,5 +17,4 @@ Desenvolvedora Backend Júnior no **IFocus**, uma plataforma do Ministério da E
 ## Fale comigo
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/laura-lunaa/)
-[![My Skills](https://skillicons.dev/icons?i=gmail)](laurablunam@gmail.com)
-
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:laurablunam@gmail.com)
