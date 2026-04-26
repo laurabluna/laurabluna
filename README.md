@@ -15,7 +15,7 @@ Sou Desenvolvedora Backend Júnior no **IFocus**, uma plataforma do Ministério 
 ## 💻 Tecnologias & Ferramentas
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,django,postgres,mongo,vue,react,sklearn,tailwind,spring,tensorflow,rabbitmq,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,django,postgres,mongo,vue,react,sklearn,tailwind,spring,tensorflow,rabbitmq,figma,docker,aws)](https://skillicons.dev)
 <br>
 ## Você pode falar comigo!
 
