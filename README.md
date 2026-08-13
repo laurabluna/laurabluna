@@ -7,7 +7,7 @@ Sou Desenvolvedora Backend Júnior no **IFocus**, uma plataforma do Ministério 
 
 ## 🎓 Formação
 
-- 📚 Cursando 6º período de **Análise e Desenvolvimento de Sistemas** no IFRN
+- 📚 Graduada em **Análise e Desenvolvimento de Sistemas** no IFRN Natal Central
 - 🤖 Cursando Ênfase em **Inteligência Artificial** no IMD UFRN
 - 🏆 Finalista da **Maratona Feminina de Programação** da Sociedade Brasileira de Computação
 
